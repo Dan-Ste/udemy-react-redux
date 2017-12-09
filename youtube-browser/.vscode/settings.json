@@ -1,0 +1,15 @@
+{
+  "files.associations": {
+    "*.jsx": "javascriptreact"
+  },
+  "beautify.language": {
+    "js": {
+      "type": [
+        "javascript",
+        "json",
+        "jsx",
+        "js"
+      ]
+    }
+  }
+}
